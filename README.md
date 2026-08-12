@@ -38,7 +38,6 @@ AGAR DAPAT MENGGUNAKAN CISCO PACKET TRACER.
 ## 13. 
 ![Mumu](13.png)
 ## 14. 
-![Mumu](12.png)
-## 15. 
-![Mumu](15.png)
+![Mumu](14.png)
+
 
